@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
-  "apkUrl": "https://github.com/mustafaalfahd-max/ioptic-mobile-releases/releases/download/v1.0.2/ioptic-1.0.2.apk",
-  "notes": "• إصلاح زرّ «فتح المثبّت ثانية»: يفتح الملف المنزَّل مباشرة بدل إعادة التنزيل",
-  "size": 27450955
+  "version": "1.0.3",
+  "apkUrl": "https://github.com/mustafaalfahd-max/ioptic-mobile-releases/releases/download/v1.0.3/ioptic-1.0.3.apk",
+  "notes": "• أول إصدار موقَّع بمفتاح التوقيع الثابت\n• من يحمل 1.0.1 أو 1.0.2: احذف التطبيق وثبّت هذا الإصدار يدوياً مرة واحدة، وبعدها تصل التحديثات تلقائياً",
+  "size": 27451027
 }
